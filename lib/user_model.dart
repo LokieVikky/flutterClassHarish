@@ -6,4 +6,5 @@ class User{
   String avatarURL;
 
   User(this.id, this.email, this.firstName, this.lastName, this.avatarURL);
+
 }
